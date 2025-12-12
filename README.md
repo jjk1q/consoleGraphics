@@ -1,2 +1,2 @@
 # consoleGraphics
-first repository, idk what to write:
+first time working with graphics in c#
